@@ -14,7 +14,7 @@ ever you like, add it to your project, and update the file path in the image abo
 
 
 - Solution URL: [https://github.com/Pparg/AdviceGenerator]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://pparg.github.io/AdviceGenerator/]
 
 ## My process
 
