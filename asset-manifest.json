@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AdviceGenerator/static/css/main.357d2c1a.css",
+    "main.js": "/AdviceGenerator/static/js/main.7ed81607.js",
+    "index.html": "/AdviceGenerator/index.html",
+    "static/media/pattern-divider-desktop.svg": "/AdviceGenerator/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
+    "main.357d2c1a.css.map": "/AdviceGenerator/static/css/main.357d2c1a.css.map",
+    "main.7ed81607.js.map": "/AdviceGenerator/static/js/main.7ed81607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.357d2c1a.css",
+    "static/js/main.7ed81607.js"
+  ]
+}
